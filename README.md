@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# 🏍️ Astra Honda Motor – Company Profile & Product Catalog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website ini adalah **Company Profile dan Katalog Produk Astra Honda Motor** berbasis web yang menampilkan berbagai jenis sepeda motor Honda, layanan servis, suku cadang, hingga informasi karir.
 
-## Available Scripts
+Project ini dibuat menggunakan **React JS** dan **Tailwind CSS** dengan tampilan modern dan responsif.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Teknologi yang Digunakan
+- React JS  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- React Router DOM
+- Create React App  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎯 Tujuan Website
+Website ini dibuat untuk:
+- Menampilkan daftar produk sepeda motor Honda dan detailnya
+- Menyediakan informasi layanan servis motor dan mobil
+- Katalog suku cadang original dengan fitur filter
+- Pusat bantuan dan informasi promo terbaru
+- Menjadi media promosi digital Astra Honda  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📄 Fitur Website
+- **Katalog & Detail Motor**: Menampilkan lini produk motor dengan spesifikasi lengkap.
+- **Suku Cadang (Sparepart)**: Pencarian suku cadang dengan filter kategori (Oli, Ban, Rem, dll).
+- **Layanan Service**: Informasi paket service motor (Silver, Gold, Platinum) dan service mobil.
+- **Pusat Bantuan (Help Center)**: FAQ, kontak dealer, dan panduan troubleshooting interaktif.
+- **Info Promo**: Daftar promo terkini dengan detail popup.
+- **Halaman Karir**: Lowongan pekerjaan dengan filter berdasarkan departemen.
+- **Tampilan Responsif**: Desain yang menyesuaikan berbagai ukuran layar.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🔄 Alur Pengguna
+1. **Beranda**: Pengunjung masuk ke landing page utama.
+2. **Eksplorasi Produk**: Memilih motor dari katalog untuk melihat detail harga dan spesifikasi.
+3. **Layanan Purna Jual**: Mengakses menu Service untuk melihat paket perawatan atau mencari suku cadang.
+4. **Bantuan & Info**: Mengakses Help Center untuk solusi masalah teknis atau melihat Promo yang sedang berlangsung.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🗂 Struktur Folder
 
-### `npm run eject`
+```
+frontend/
+├── src/
+│   ├── components/
+│   ├── pages/
+```
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🗂 Struktur Folder
